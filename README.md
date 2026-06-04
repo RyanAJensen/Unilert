@@ -152,9 +152,3 @@ If swarm enrichment is unavailable, the deterministic local decision surface sti
 6. Go to **Submit Update** tab — click "Primary access road is blocked…" quick-fill → **Submit Update & Replan**.
 7. Agents run again. The **Plan Diff** tab appears, highlighting added/removed actions and changed sections.
 8. Click **Plan History** in the sidebar to compare v1 vs v2.
-
-Key talking points:
-- Each agent has a persistent Dedalus Machine with a traceable `machine_id`
-- Plan diff shows exactly what changed and why
-- System is framed as decision-support, not autonomous emergency control
-- Architecture cleanly separates runtime (Dedalus / local), agents, and data layer
