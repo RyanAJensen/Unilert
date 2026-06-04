@@ -142,7 +142,7 @@ If swarm enrichment is unavailable, the deterministic local decision surface sti
 
 ---
 
-## Demo Script for Judges
+## Self Demo
 
 1. Open `http://localhost:3000` — the **Dashboard** appears.
 2. Click **"🔥 Dorm Fire – Whitman College"** demo scenario → click **▶ Run Analysis**.
